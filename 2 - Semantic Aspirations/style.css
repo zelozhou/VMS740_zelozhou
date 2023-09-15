@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Foldit:wght@100;400;600&family=Notable&family=Noto+Sans+Linear+B&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    background-color: rgb(255, 255, 255);
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    margin: 0px;
+}
+
+main {
+    display: flex;
+    flex: 1 2 100px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Noto Sans Linear B', sans-serif;
+    font-size: .8rem;
+}
+
+link {
+    color: #cc660e;
+    text-emphasis-color: #cc660e;
+    text-decoration: dashed;
+}
+
+.row {
+    padding: 1rem;
+    max-width: 400px;
+    max-height: 500px;
+    overflow: hidden;
+    margin: .5rem;
+
+}
+
+.row2 {
+    padding: 1rem;
+    max-width: 800px;
+    margin: .5rem;
+    overflow: hidden;
+}
+
+
+.row3 {
+    padding: 2rem;
+    max-width: 100%;
+    text-align: center;
+    overflow: hidden;
+    margin: 1rem;
+}
+
+
+p {
+    font-family: 'Noto Sans Linear B', sans-serif;
+    font-size: 1rem;
+}
+
+li {
+    line-height: 1.2rem;
+    padding: .5rem;
+    color: #050553;
+    background-color: linear-gradient(rgba(250, 145, 145, 0.7), rgba(237, 201, 165, 0.749));
+}
+
+h1 {
+    font-family: 'HYAlzheimer', sans-serif;
+    font-weight: initial;
+    font-size: 3.8rem;
+    line-height: 4.5rem;
+    color: #0a0907;
+    text-shadow: 1px 1px #420916;
+
+}
+
+h2 {
+    font-family: 'Notable', sans-serif;
+    font-weight: initial;
+    color: #030206;
+    font-size: 2.4rem;
+    line-height: 2.5rem;
+    text-shadow: 1px 1px #420916;
+
+}
+
+h3 {
+    font-family: 'Times New Roman', sans-serif;
+    color: #e8e831;
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+h4 {
+    font-family: 'Futura', sans-serif;
+    font-size: 1rem;
+    color: #050553;
+}
+
+footer {
+    background-image: linear-gradient(rgb(255, 255, 255), rgba(1, 1, 1, 0.5));
+    color: #eeebed;
+    font-size: .8rem;
+    font-family: 'Noto Sans Linear B', sans-serif;
+    line-height: 1rem;
+    padding: 5%;
+}

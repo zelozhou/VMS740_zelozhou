@@ -6,4 +6,4 @@ Proposal: Proposal.pdf
 
 Visual Research & Design Documentation: Documentation.pdf
 
-Final site: https://zelozhou.github.io/VMS740_zelozhou/4 - Midterm_Portfolio/index1LAND.html
+Final site: "https://zelozhou.github.io/VMS740_zelozhou/4 - Midterm_Portfolio/index1LAND.html"

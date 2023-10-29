@@ -1,6 +1,6 @@
 This is a prototyping html and css project for ISS740 Web Design course.
 
-There are4 components for this project:
+There are 4 components for this project:
 
 Proposal: Proposal.pdf 
 

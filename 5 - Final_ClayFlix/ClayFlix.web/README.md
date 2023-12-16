@@ -6,7 +6,7 @@ The images used are mostly from film posters, which allow non-commercial use.
 
 The LOGO was designed by me using Midjourney.
 
-The links leads to sites in which the films are screened. THEY ARE NOT COMMERCIALLY LICENSED TO PLAY THEM. But it's ok for you to watch them (often approved by production individual and company)
+The links leads to sites in which the films are screened. THEY ARE NOT COMMERCIALLY LICENSED TO PLAY THEM. But it's ok for you to watch them on those sites (often approved by production individual and company as a promotional/academic online screening, but not always)
 
 View it live at https://zelozhou.github.io/VMS740_zelozhou/5%20-%20Final_ClayFlix/ClayFlix.web/index.html
 
